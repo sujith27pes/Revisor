@@ -17,7 +17,7 @@ flet revisor.py
 
 ### Planned Features & Requirements
 - Record and display Performance Stats (test scores history)
-- Generate and create / add to Question Bank from provided text material (with tags: topics, difficulty)
+- Create and add questions to Question Bank from provided text material (with tags: topics, difficulty)
 - Testing Section (customization and conduction of test based on # of questions, difficulty and topic selection)
 - Settings page ( UI personalization - theme colors, Reset Question bank, Reset Performance Stats )
 
