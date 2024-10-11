@@ -5,7 +5,6 @@ Students' Revision and Self-Evaluation App
 
 ### The Idea
 Reinforcing conceptual topics by taking micro MCQ test and analyzing result history.
-Using LLM to generate MCQs from provided textual material with varying difficulties.
 
 #### Dependencies
 ```
