@@ -40,4 +40,3 @@ flet revisor.py
    `t` is a list of tags for the question,
    `o` is a list of options (length of this list must be 4),
    `a` is the index of the correct option in the above list
-4. Ollama is an amazing tool that allows you to run Open-Sauce LLMs (Large Language Models) locally on your computer or a server. The LLM generates our MCQs based on tags - [Ollama's github page](https://github.com/ollama/ollama)
