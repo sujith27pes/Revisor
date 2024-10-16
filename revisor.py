@@ -9,9 +9,10 @@ class HomePage(Column):
     def __init__(self, page: Page):
         super().__init__()
         self.expand = True
-
+        self.testsTaken = 0
         self.avgScore = 0
-
+        self.history = [0,]
+        self.avgScore = (m.fsum(self.history)/(len(self.history)-1)) if len(self.history)>1 else 0
         self.mainRing = ProgressRing(width=256,height=256,stroke_width=50, value=self.avgScore/100)
         self.quickInfo = Stack(
             controls=[
