@@ -10,6 +10,7 @@ Reinforcing conceptual topics by taking micro MCQ test and analyzing result hist
 ```
 pip install flet
 ```
+Make sure you've installed and setup flutter on your systems
 #### Project Execution
 ```
 flet revisor.py
